@@ -1,8 +1,8 @@
 
 import React, { useState, useMemo } from 'react';
-import { ExpenseRecord, ExpenseType, PersonName } from './types';
-import { ExpenseCard } from './components/ExpenseCard';
-import { calculateSettlement } from './utils/settle';
+import { ExpenseRecord, ExpenseType, PersonName } from './types.ts';
+import { ExpenseCard } from './components/ExpenseCard.tsx';
+import { calculateSettlement } from './utils/settle.ts';
 
 // Icons as SVG strings
 const Icons = {
