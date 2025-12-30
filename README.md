@@ -2,6 +2,7 @@
 # BillSplit iOS Web App
 
 A clean, high-performance utility designed with iOS aesthetics to split household bills (Electric, Heat, Water, Wifi) among three residents: Dylan, Kaitlyn, and Caroline.
+**Made entirely using Google's AI studio**
 
 ## Features
 - **Greedy Settlement Algorithm**: Calculates the absolute minimum number of transactions required to settle up.
