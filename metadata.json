@@ -1,0 +1,5 @@
+{
+  "name": "BillSplit iOS",
+  "description": "A clean, iOS-inspired utility to settle shared household expenses among Dylan, Kaitlyn, and Caroline with minimal transactions.",
+  "requestFramePermissions": []
+}
